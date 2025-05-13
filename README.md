@@ -29,3 +29,9 @@
 **Table**
 
 ![My Image](TableHTML.png)
+
+# DarkMode Function #
+
+**DarkMode Function**
+
+![My Image](dark-code-function.png)
